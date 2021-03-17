@@ -1,0 +1,13 @@
+
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ª“šŞƒ/
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÿş÷8üÜƒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šÎÑüÿÿÿÿ8”È×ƒ/
+k
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(˜ßıO8üÜƒ/
+0
+java:S1220""Move this file to a named package.
+]	java:S125"<This block of commented-out lines of code should be removed.(Î®”úÿÿÿÿ8¼è‹Üƒ/
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8”È×ƒ/
